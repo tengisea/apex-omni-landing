@@ -49,14 +49,6 @@ Ensure you have **Node.js** (v18+) and **Yarn** installed.
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|:---:|:---:|
-| ![Desktop Demo](public/desktop-demo.png) | ![Mobile Demo](public/mobile-demo.png) |
-
-> *Note: Replace the placeholder images in the `public` folder with actual screenshots of the application.*
-
 ## 🏗️ Build & Deploy
 
 To create a production build:
